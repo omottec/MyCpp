@@ -1,3 +1,5 @@
+// myfirst.cpp -- displays a message
+
 #include <iostream>
 int main()
 {
