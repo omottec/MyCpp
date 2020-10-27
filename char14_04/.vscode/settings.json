@@ -12,6 +12,8 @@
         "numeric": "cpp",
         "sstream": "cpp",
         "streambuf": "cpp",
-        "utility": "cpp"
+        "utility": "cpp",
+        "ios": "cpp",
+        "string": "cpp"
     }
 }
